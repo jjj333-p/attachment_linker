@@ -1,0 +1,2 @@
+https://matrix.homeserver
+[authentication token goes here]
