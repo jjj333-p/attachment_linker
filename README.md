@@ -1,5 +1,5 @@
 # attachment_linker
-Sends the media download url from the originating matrix hs when someone sends an attachment
+Sends the media download url from the originating matrix hs when someone sends an attachment. **THIS DOES NOT WORK WITH AUTH MEDIA**
 
 # Setup:
 Create txt file `./db/login.txt` and inside it, put
